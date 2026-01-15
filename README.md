@@ -1,5 +1,7 @@
 # Kubernetes Security Best Practices
 
+![Kubernetes Security Flow](./security-flow.png)
+
 This repository demonstrates practical Kubernetes security implementations aligned with cloud-native and production-grade environments.
 
 The focus is on **securing workloads, controlling network access, hardening containers, and enforcing least-privilege principles**.
