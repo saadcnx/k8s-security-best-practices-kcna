@@ -1,0 +1,25 @@
+k8ss-security-best-practices-kcna/
+│
+├── pod-security/
+│   ├── insecure-pod.yaml
+│   ├── secure-pod.yaml
+│
+├── network-policies/
+│   ├── frontend-app.yaml
+│   ├── backend-app.yaml
+│   ├── database-app.yaml
+│   ├── backend-network-policy.yaml
+│   ├── database-network-policy.yaml
+│
+├── image-security/
+│   ├── Dockerfile.secure
+│   ├── image-policy.yaml
+│   ├── scan-cluster-images.sh
+│
+├── rbac/
+│   └── rbac-config.yaml
+│
+├── resource-management/
+│   └── resource-quota.yaml
+│
+└── README.md
